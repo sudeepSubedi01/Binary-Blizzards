@@ -1,0 +1,38 @@
+[
+  {
+    "label":"Military Disaster Response and Assistance",
+    "value": "Military Disaster Response and Assistance"
+  },
+  { 
+    "label": "First Aid Training", "value": "First Aid Training" 
+  },
+  { 
+    "label": "CPR Certification", "value": "CPR Certification" 
+  },
+  {
+    "label": "Disaster Response Training",
+    "value": "Disaster Response Training"
+  },
+  { "label": "Team Building Workshop", "value": "Team Building Workshop" },
+  {
+    "label": "Emergency Response Training",
+    "value": "Emergency Response Training"
+  },
+  { "label": "Mental Health First Aid", "value": "Mental Health First Aid" },
+  {
+    "label": "Project Management Training",
+    "value": "Project Management Training"
+  },
+  {
+    "label": "Health and Safety Training",
+    "value": "Health and Safety Training"
+  },
+  {
+    "label": "Volunteer Management Certification",
+    "value": "Volunteer Management Certification"
+  },
+  {
+    "label": "Community Health and Wellness Program",
+    "value": "Community Health and Wellness Program"
+  }
+]
